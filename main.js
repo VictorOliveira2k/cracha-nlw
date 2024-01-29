@@ -2,7 +2,7 @@ const linksSocialMedia = {
   github: 'VictorOliveira2k',
   youtube: 'maykbrito',
   facebook: 'profile.php?id=100005098389130',
-  instagram: 'fn_v.oliveira',
+  instagram: 'adestrador.victor',
   twitter: 'Victorsouza2k'
 }
 
